@@ -1,0 +1,35 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+.streamlit/
+*.log
+
+.DS_Store
+Thumbs.db
+
+# Generated video/image files
+results/*.mp4
+results/*.avi
+results/*.mov
+results/*.mkv
+results/*.jpg
+results/*.jpeg
+results/*.png
+
+# Unnecessary test and backup files
+bus.jpg
+evaluation_frames.zip
+app_backup.py
+
+# YOLO model weights
+yolo11n.pt
+
+results/evaluation_frames/

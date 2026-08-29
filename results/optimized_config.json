@@ -1,0 +1,7 @@
+{
+    "model": "YOLO11n",
+    "optimized_image_size": 320,
+    "best_fps": 22.73,
+    "lowest_latency_ms": 31.42,
+    "optimization_method": "Benchmark-based resolution selection"
+}

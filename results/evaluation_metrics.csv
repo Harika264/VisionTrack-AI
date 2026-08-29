@@ -1,0 +1,17 @@
+Metric,Value
+Frames Evaluated,100
+Inference Size,320
+Confidence Threshold,0.5
+Average Inference (ms),63.43
+Inference FPS,15.77
+Total Objects Detected,429
+Objects Per Frame,4.29
+Average Detection Confidence,0.739
+Minimum Detection Confidence,0.5033
+Maximum Detection Confidence,0.9114
+Persons Detected,264
+Cars Detected,163
+Trucks Detected,2
+Buses Detected,0
+Motorcycles Detected,0
+Bicycles Detected,0

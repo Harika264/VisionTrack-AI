@@ -1,0 +1,25 @@
+Metric,Value
+project,VisionTrack AI
+video,15067301_2560_1440_30fps.mp4
+model,YOLO11n
+device,CPU
+confidence,0.5
+image_size,320
+optimized_configuration,True
+recommended_image_size,320
+video_resolution,2560x1440
+original_video_fps,29.97
+frames_processed,396
+average_fps,1.3
+average_inference_ms,339.76
+total_runtime_seconds,305.17
+persons_tracked,18
+cars_tracked,6
+trucks_tracked,1
+buses_tracked,0
+motorcycles_tracked,0
+bicycles_tracked,0
+vehicles_in,0
+vehicles_out,0
+trajectory_tracking,ACTIVE
+object_tracking,ACTIVE
